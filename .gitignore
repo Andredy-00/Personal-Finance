@@ -13,9 +13,6 @@ dist
 dist-ssr
 *.local
 
-# Archivos locales
-*.README-template.md
-
 # Directorios y archivos del editor
 .vscode/*
 !.vscode/extensions.json
